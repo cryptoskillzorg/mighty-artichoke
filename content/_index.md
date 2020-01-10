@@ -11,7 +11,7 @@ sections:
   actions: []
 - type: contentblock
   template: contentblock
-  title: Aboutd
+  title: Aboutdf
   section_id: about
   actions:
   - label: Contact Me
